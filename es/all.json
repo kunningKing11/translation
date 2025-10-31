@@ -561,8 +561,8 @@
         "TITLE": "Ancho Completo"
       },
       "INTERFACE": {
-        "KEYWORDS": "idioma lenguaje traducción traducir i18n",
-        "TITLE": "Idioma de la Interfaz de RemNote"
+        "TITLE": "Idioma de la Interfaz de RemNote",
+        "KEYWORDS": "idioma lenguaje traducción traducir i18n"
       },
       "IN_APP_SUGGESTIONS": {
         "KEYWORDS": "descripciones emergentes ayuda soporte aprender tutorial",

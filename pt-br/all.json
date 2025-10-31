@@ -552,8 +552,8 @@
         "TITLE": "Largura Completa "
       },
       "INTERFACE": {
-        "KEYWORDS": "idioma idioma tradução i18n",
-        "TITLE": "Idioma da interface do RemNote"
+        "TITLE": "Idioma da interface do RemNote",
+        "KEYWORDS": "idioma idioma tradução i18n"
       },
       "IN_APP_SUGGESTIONS": {
         "KEYWORDS": "dicas ajuda suporte aprender tutorial",

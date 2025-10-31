@@ -527,8 +527,8 @@
         "TITLE": "Полная ширина"
       },
       "INTERFACE": {
-        "KEYWORDS": "язык перевод i18n",
-        "TITLE": "Язык интерфейса RemNote"
+        "TITLE": "Язык интерфейса RemNote",
+        "KEYWORDS": "язык перевод i18n"
       },
       "IN_APP_SUGGESTIONS": {
         "KEYWORDS": "подсказки помощь поддержка обучение руководство",

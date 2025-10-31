@@ -553,8 +553,8 @@
         "TITLE": "全屏显示"
       },
       "INTERFACE": {
-        "KEYWORDS": "语言 语言 翻译 i18n",
-        "TITLE": "RemNote 界面语言"
+        "TITLE": "RemNote 界面语言",
+        "KEYWORDS": "语言 语言 翻译 i18n"
       },
       "IN_APP_SUGGESTIONS": {
         "KEYWORDS": "提示 帮助 支持 学习 教程",
